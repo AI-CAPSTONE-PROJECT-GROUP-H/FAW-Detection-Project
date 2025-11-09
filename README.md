@@ -50,22 +50,13 @@ This project applies **Supervised Machine Learning** and **Computer Vision** to 
 ```bash
 FAW-Detection/
 │
-├── data/                     # dataset links or sample images
+├── data/
 │   └── dataset_links.md
 │
 ├── notebooks/
-│   ├── 1_data_preprocessing.ipynb
-│   ├── 2_training.ipynb
-│   ├── 3_evaluation.ipynb
-│   └── 4_export_to_onnx.ipynb
+│   ├── 1_FAW_Detection_Project_.ipynb
 │
 ├── models/
-│   └── faw_model.onnx
+│   └── faw_model(2).onnx
 │
-├── src/
-│   ├── utils.py
-│   ├── preprocessing.py
-│   └── inference.py
-│
-├── requirements.txt
 └── README.md
