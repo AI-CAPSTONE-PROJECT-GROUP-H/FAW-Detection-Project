@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['fall-armyworm-egg', 'fall-armyworm-frass', 'fall-armyworm-larva', 'fall-armyworm-larval-damage', 'healthy-maize', 'maize-streak-disease']
+
+roboflow:
+  workspace: fall-armyworm
+  project: fall-armyworm
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/fall-armyworm/fall-armyworm/dataset/2

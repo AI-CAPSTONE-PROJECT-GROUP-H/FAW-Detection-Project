@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>WhatsApp Image 2018-10-28 at 2.49.38 PM.jpeg</filename>
+	<path>C:\tensorflow1\images\train\WhatsApp Image 2018-10-28 at 2.49.38 PM.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>810</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>armWorm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>370</ymin>
+			<xmax>628</xmax>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>armWorm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>576</ymin>
+			<xmax>535</xmax>
+			<ymax>685</ymax>
+		</bndbox>
+	</object>
+</annotation>
