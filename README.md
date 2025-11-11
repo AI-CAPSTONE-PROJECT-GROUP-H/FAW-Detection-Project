@@ -198,5 +198,5 @@ fall-armyworm-detection/
 - Khadijat hassan-dogo
 - Taiwo Odewabi
 - Olorunfemi Emmanuel Damilare
-
+- Adetona Michael by name
 ---
